@@ -1,0 +1,146 @@
+﻿  Minesweeper.cpp
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Board.h(451,24): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(22,72): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(22,56): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(49,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(49,105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(73,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(73,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(84,121): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(84,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(94,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(94,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(102,108): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(102,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(110,108): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(110,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(118,108): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(118,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(214,49): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(217,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(220,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(223,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(226,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Minesweeper.cpp(244,29): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Board.h(415): warning C4715: 'findTile': not all control paths return a value
+  Minesweeper.vcxproj -> C:\Users\Granko\Desktop\COP3503 C++\Project 3 - Minesweeper\Minesweeper\Minesweeper\Debug\Minesweeper.exe
